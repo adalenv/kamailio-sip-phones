@@ -15,3 +15,4 @@ Installation:
 	
 	 chmod +x run-check.sh
 
+4. Set server username , password and host in  `check.sh` file
