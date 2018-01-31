@@ -4,7 +4,7 @@ Installation:
 
 	https://www.cyberciti.biz/faq/noninteractive-shell-script-ssh-password-provider/
 
-2.Add this line at '/etc/sudoers' file:
+2.Add this line at `/etc/sudoers` file:
 
 
 	Ubuntu: www-data ALL=(ALL) NOPASSWD: ALL
