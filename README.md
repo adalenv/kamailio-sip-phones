@@ -13,6 +13,6 @@ Installation:
 	      : #Defaults    requiretty <-- comment it
 3.Set execute permission for `check.sh` file
 	
-	 chmod +x run-check.sh
+	 chmod +x check.sh
 
 4. Set server username , password and host in  `check.sh` file
