@@ -1,7 +1,11 @@
-Dependencies:
+Installation:
 
 1.Install sshpass 
 
 2.Add this line at '/etc/sudoers' file:
-	www-data ALL=(ALL) NOPASSWD: ALL
+	Ubuntu: www-data ALL=(ALL) NOPASSWD: ALL
+	
+	Centos: www-data ALL=(ALL) NOPASSWD: ALL
+	      : #Defaults    requiretty <-- comment it
+
 
