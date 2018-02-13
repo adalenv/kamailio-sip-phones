@@ -9,7 +9,7 @@ Installation:
 
 	Ubuntu: www-data ALL=(ALL) NOPASSWD: ALL
 	
-	Centos: www-data ALL=(ALL) NOPASSWD: ALL
+	Centos: apache ALL=(ALL) NOPASSWD: ALL
 	      : #Defaults    requiretty <-- comment it
 3.Set execute permission for `check.sh` file
 	
